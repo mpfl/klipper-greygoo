@@ -1,4 +1,6 @@
 *
 !printer.cfg
 !macros.cfg
+!mainsail.cfg
+!moonraker.conf
 !.gitignore
