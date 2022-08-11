@@ -3,4 +3,6 @@
 !macros.cfg
 !mainsail.cfg
 !moonraker.conf
+!moonraker-obico.cfg
+!moonraker-obico-update.cfg
 !.gitignore
